@@ -1,5 +1,3 @@
-Claro, vou te ajudar a criar um README para um projeto Java com Angular 17. Aqui está um exemplo:
-
 ---
 
 # Projeto Java com Angular 17
